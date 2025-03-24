@@ -1,6 +1,6 @@
 # OPEN TAGADA
-Sei un appassioanto di giostre o un maker?
-Da ora con la tua stampante 3D puoi creare un fantastico Tagadà completamente da 0.
+<p> Sei un appassioanto di giostre o un maker? </p>
+<p> Da ora con la tua stampante 3D puoi creare un fantastico Tagadà completamente da 0. </p>
 
 ## Non sai da dove iniziare? 
 <p> Ecco a te una tabella sulle cose da comprare per creare il tuo Tagadà </p>
