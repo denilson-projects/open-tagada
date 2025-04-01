@@ -71,18 +71,25 @@ void loop() {
 
 // Gestione dei comandi
 void handleCommand(String command) {
-  if (command == "PUMP_ON") {
+  if (command == "TEST") {
+    Serial.println("OK"); // Risponde al comando di test
+  } else if (command == "PUMP_ON") {
     digitalWrite(pumpRelayPin, HIGH);
     isPumpOn = true;
+    Serial.println("Pompa accesa");
   } else if (command == "PUMP_OFF") {
     digitalWrite(pumpRelayPin, LOW);
     isPumpOn = false;
+    Serial.println("Pompa spenta");
   } else if (command == "SERVO_UP") {
     moveServo(100);
+    Serial.println("Servo su");
   } else if (command == "SERVO_DOWN") {
     moveServo(0);
+    Serial.println("Servo giù");
   } else if (command == "SERVO_STOP") {
     moveServo(50);
+    Serial.println("Servo stop");
   } else if (command == "MOTOR_ON") {
     digitalWrite(motorRelayPin, HIGH);
     isMotorOn = true;
