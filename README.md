@@ -1,6 +1,5 @@
 # OPEN TAGADÀ
 <p> Sei un appassionato di giostre o un maker? </p>
-<p> Da ora con la tua stampante 3D puoi creare un fantastico Tagadà completamente da 0. </p>
 
 ## Da dove iniziare? 
 <p> Leggi le tabelle sottostanti e segui la guida a fine README</p>
@@ -22,11 +21,10 @@
 | BREADBOARD | [amazon](https://amzn.eu/d/g0E0IIw) |
 | CAVI ALIMENTAZIONE | [amazon](https://amzn.eu/d/3s9BbMa) |
 | MORSETTIERE | [amazon](https://amzn.eu/d/3s9BbMa) |
-
-| | MISURE PLEXIGLASS |
-|-----------|-----------|
-| 2222x1111 | 4 PEZZI |
-| 5000x5000 | 2 PEZZI |
+| PLEXIGLASS 5mm |  |
 
 ### BASE IN PLEXIGLASS
-## 1. Taglia i fogli di PLEXIGLASS
+## 1. Taglia i fogli di plexiglass come indicato qui sotto:
+- 32x12 | X4 laterali
+- 31x31 | X1 base sotto
+- 32x32 | X1 base sopra
