@@ -40,14 +40,14 @@ void setup() {
   // Inizializzazione stato
   servo.write(50);  // Posizione iniziale neutra
   isServoActive = false; // Il servo è inattivo inizialmente
-  digitalWrite(pumpRelayPin, LOW);
-  digitalWrite(motorRelayPin, LOW);
+  digitalWrite(pumpRelayPin, 1);
+  digitalWrite(motorRelayPin, 1);
 
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
   for (int i = 0; i < 2; i++) {
-    digitalWrite(stroboPins[i], LOW);
+    digitalWrite(stroboPins[i], 1);
   }
 }
 
@@ -71,24 +71,31 @@ void loop() {
 
 // Gestione dei comandi
 void handleCommand(String command) {
-  if (command == "PUMP_ON") {
-    digitalWrite(pumpRelayPin, HIGH);
+  if (command == "TEST") {
+    Serial.println("OK"); // Risponde al comando di test
+  } else if (command == "PUMP_ON") {
+    digitalWrite(pumpRelayPin, 0);
     isPumpOn = true;
+    Serial.println("Pompa accesa");
   } else if (command == "PUMP_OFF") {
-    digitalWrite(pumpRelayPin, LOW);
+    digitalWrite(pumpRelayPin, 1);
     isPumpOn = false;
+    Serial.println("Pompa spenta");
   } else if (command == "SERVO_UP") {
     moveServo(100);
+    Serial.println("Servo su");
   } else if (command == "SERVO_DOWN") {
     moveServo(0);
+    Serial.println("Servo giù");
   } else if (command == "SERVO_STOP") {
     moveServo(50);
+    Serial.println("Servo stop");
   } else if (command == "MOTOR_ON") {
-    digitalWrite(motorRelayPin, HIGH);
+    digitalWrite(motorRelayPin, 0);
     isMotorOn = true;
     Serial.println("Motore acceso");
   } else if (command == "MOTOR_OFF") {
-    digitalWrite(motorRelayPin, LOW);
+    digitalWrite(motorRelayPin, 1);
     isMotorOn = false;
     Serial.println("Motore spento");
   } else if (command == "AUTO_MODE_ON") {
@@ -138,7 +145,7 @@ void runAutomaticMode() {
 // Effetti di luce
 void handleLightEffect(String effect) {
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
 
   if (effect == "1") {
@@ -154,17 +161,17 @@ void handleLightEffect(String effect) {
 
 void lightEffectPolice() {
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], HIGH);
+    digitalWrite(lightPins[i], 0);
     delay(100);
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
 }
 
 void lightEffectAlternating() {
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], HIGH);
+    digitalWrite(lightPins[i], 0);
     delay(200);
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
 }
 
@@ -177,9 +184,9 @@ void lightEffectRain() {
 
 void lightEffectRainbow() {
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], HIGH);
+    digitalWrite(lightPins[i], 0);
     delay(150);
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
 }
 
@@ -198,12 +205,12 @@ void lightEffectStrobe() {
 
 void stopStrobeEffect() {
   for (int i = 0; i < 2; i++) {
-    digitalWrite(stroboPins[i], LOW);
+    digitalWrite(stroboPins[i], 1);
   }
 }
 
 void resetLights() {
   for (int i = 0; i < 5; i++) {
-    digitalWrite(lightPins[i], LOW);
+    digitalWrite(lightPins[i], 1);
   }
 }
