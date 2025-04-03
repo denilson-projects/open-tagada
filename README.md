@@ -1,9 +1,9 @@
-# OPEN TAGADA
+# OPEN TAGADÀ
 <p> Sei un appassionato di giostre o un maker? </p>
 <p> Da ora con la tua stampante 3D puoi creare un fantastico Tagadà completamente da 0. </p>
 
 ## Da dove iniziare? 
-<p> Ecco a te una tabella sulle cose da comprare per creare il tuo Tagadà </p>
+<p> Leggi le tabelle sottostanti e segui la guida a fine README</p>
 
 | | LINKS |
 |-------------|-----------|
