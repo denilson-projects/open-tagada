@@ -5,6 +5,12 @@
 ## Da dove iniziare? 
 <p> Leggi le tabelle sottostanti e segui la guida a fine README</p>
 
+### Requisiti base
+- Computer con [python](https://www.python.org) e [processing](https://processing.org/) installato
+- Stampante 3D o affidarsi ad un service on-line
+- Colla a caldo
+- Attrezzi per tagliare il plexiglass (qualsiasi)
+
 | | LINKS |
 |-------------|-----------|
 | MODELLI 3D | [download](https://cults3d.com/denilson_p) |
