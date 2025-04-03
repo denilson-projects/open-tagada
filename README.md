@@ -1,16 +1,14 @@
 # OPEN TAGADÀ
 <p> Sei un appassionato di giostre o un maker? </p>
 
-## Da dove iniziare? 
-<p> Leggi le tabelle sottostanti e segui la guida a fine README</p>
-
 ### Requisiti base
 - Computer con [python](https://www.python.org) e [processing](https://processing.org/) installato
 - Stampante 3D o affidarsi ad un service on-line
 - Colla a caldo
 - Attrezzi per tagliare il plexiglass (o riscaldare un taglierino)
+<br>
 
-| | LINKS |
+| | MATERIALI |
 |-------------|-----------|
 | MODELLI 3D | [download](https://cults3d.com/denilson_p) |
 | ARDUINO UNO | [amazon](https://amzn.eu/d/0O53TD6) |
@@ -22,9 +20,10 @@
 | CAVI ALIMENTAZIONE | [amazon](https://amzn.eu/d/3s9BbMa) |
 | MORSETTIERE | [amazon](https://amzn.eu/d/3s9BbMa) |
 | PLEXIGLASS 5mm |  |
+<br>
 
 ### BASE IN PLEXIGLASS
-## 1. Taglia i fogli di plexiglass come indicato qui sotto:
+1. Taglia i fogli di plexiglass come indicato qui sotto:
 - 32x12cm | X4 laterali
 - 31x31cm | X1 base sotto
 - 32x32cm | X1 base sopra
