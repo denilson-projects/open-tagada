@@ -25,6 +25,6 @@
 
 ### BASE IN PLEXIGLASS
 ## 1. Taglia i fogli di plexiglass come indicato qui sotto:
-- 32x12 | X4 laterali
-- 31x31 | X1 base sotto
-- 32x32 | X1 base sopra
+- 32x12cm | X4 laterali
+- 31x31cm | X1 base sotto
+- 32x32cm | X1 base sopra
