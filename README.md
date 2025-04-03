@@ -9,7 +9,7 @@
 - Computer con [python](https://www.python.org) e [processing](https://processing.org/) installato
 - Stampante 3D o affidarsi ad un service on-line
 - Colla a caldo
-- Attrezzi per tagliare il plexiglass (qualsiasi)
+- Attrezzi per tagliare il plexiglass (o riscaldare un taglierino)
 
 | | LINKS |
 |-------------|-----------|
@@ -22,3 +22,11 @@
 | BREADBOARD | [amazon](https://amzn.eu/d/g0E0IIw) |
 | CAVI ALIMENTAZIONE | [amazon](https://amzn.eu/d/3s9BbMa) |
 | MORSETTIERE | [amazon](https://amzn.eu/d/3s9BbMa) |
+
+| | MISURE PLEXIGLASS |
+|-----------|-----------|
+| 2222x1111 | 4 PEZZI |
+| 5000x5000 | 2 PEZZI |
+
+### BASE IN PLEXIGLASS
+## 1. Taglia i fogli di PLEXIGLASS
