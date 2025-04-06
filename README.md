@@ -14,6 +14,7 @@
 | MODELLI 3D | [download](https://cults3d.com/en/3d-model/architecture/open-tagada) |
 | ARDUINO UNO | [amazon](https://amzn.eu/d/0O53TD6) |
 | ALIMENTATORE 12v/5v 4A | [amazon](https://amzn.eu/d/ekmAp1X) |
+| STROBO/LED BIANCHI 12v | |
 | MINI POMPA D'ARIA 12v | [amazon](https://amzn.eu/d/i67ArNd) |
 | MINI TUBI | |
 | SERVO-MOTORE 5v | [amazon](https://amzn.eu/d/1QBp1nV) |
@@ -43,3 +44,7 @@
 5. Taglia le barre sottili stampate in precedenza e forma una staccionata (in caso non si dispongano di strobo) e incolla il tutto alla struttura.
 6. Incolla la base del tagadà alla base in plexiglass e finisci di assemblarla.
 7. Esegui tutti i vari collegamenti in modo ordinato ed esegui un foro in fondo alla base in plexiglass per passare all'esterno i cavi.
+
+<br>
+
+### Contattami sul mio profilo TELEGRAM in caso di "mancanze" all'interno della guida @denilson_p
