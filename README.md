@@ -1,5 +1,6 @@
-# OPEN TAGADÀ
-<p> Sei un appassionato di giostre o un maker? </p>
+# OPEN TAGADÀ | 🏗 GUIDA IN COSTRUZIONE 🏗
+
+![image](img-tagada.png)
 
 ### Requisiti base
 - Computer con [python](https://www.python.org) e [processing](https://processing.org/) installato
@@ -25,6 +26,20 @@
 
 ### BASE IN PLEXIGLASS
 1. Taglia i fogli di plexiglass come indicato qui sotto:
-- 32x12cm | X4 laterali
-- 31x31cm | X1 base sotto
-- 32x32cm | X1 base sopra
+- 52x12cm | X4 laterali
+- 51x51cm | X1 base sotto
+- 52x52cm | X1 base sopra
+
+### COLLEGAMENTI E TEST
+1. Apri il file ".ide" e segui i vari collegamenti indicati.
+2. Collega l'Arduino al PC ed esegui il file di processing in "open_tagada/open_tagada.pde"
+3. Esegui tutti i test
+
+### ASSEMBLAGGIO
+1. Assembla la base ed incollala al fondo in plexiglass con della colla a caldo.
+2. Incolla il servo alla sua base, inserisci lo "switch" e collega le parti restanti.
+3. Incolla il "convertitore" del MOTORE al tagadà e inserisci il motore nel suo alloggiamento.
+4. Crea una grafica da stampare sui pannelli o incollaci degli adesivi.
+5. Taglia le barre sottili stampate in precedenza e forma una staccionata (in caso non si dispongano di strobo) e incolla il tutto alla struttura.
+6. Incolla la base del tagadà alla base in plexiglass e finisci di assemblarla.
+7. Esegui tutti i vari collegamenti in modo ordinato ed esegui un foro in fondo alla base in plexiglass per passare all'esterno i cavi.
