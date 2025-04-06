@@ -10,7 +10,7 @@
 
 | | MATERIALI |
 |-------------|-----------|
-| MODELLI 3D | [download](https://cults3d.com/denilson_p) (usa il coupon *OPEN*)|
+| MODELLI 3D | [download](https://cults3d.com/en/3d-model/architecture/open-tagada) |
 | ARDUINO UNO | [amazon](https://amzn.eu/d/0O53TD6) |
 | ALIMENTATORE 12v/5v 4A | [amazon](https://amzn.eu/d/ekmAp1X) |
 | MINI POMPA D'ARIA 12v | [amazon](https://amzn.eu/d/i67ArNd) |
