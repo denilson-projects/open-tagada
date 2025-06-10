@@ -47,4 +47,4 @@
 
 <br>
 
-### Contattami sul mio profilo TELEGRAM in caso di "mancanze" all'interno della guida @denilson_p
+### Contattami sul mio profilo TELEGRAM o DISCORD in caso di "mancanze" all'interno della guida @denilson_p | https://discord.gg/AP7prkYFJa
