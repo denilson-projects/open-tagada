@@ -48,3 +48,4 @@
 <br>
 
 ### Contattami sul mio profilo [TELEGRAM](http://t.me/denilson_p) o [DISCORD](https://discord.gg/AP7prkYFJa) in caso di "mancanze" all'interno della guida.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6ZARHD)
