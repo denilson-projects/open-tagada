@@ -47,5 +47,5 @@
 
 <br>
 
-### Contact me on my [Telegram profile](http://t.me/denilson_p) or [Discord Server](discord.gg/TTB5pUzfjG) in case of "deficiencies" within the guide.
+### Contact me on my [Telegram profile](http://t.me/denilson_p) or [Discord server](discord.gg/TTB5pUzfjG) in case of "deficiencies" within the guide.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6ZARHD)
