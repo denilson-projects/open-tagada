@@ -47,5 +47,10 @@
 
 <br>
 
-### Contact me on my [Telegram profile](http://t.me/denilson_p) in case of "deficiencies" within the guide.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6ZARHD)
+### Contact me on my [Telegram profile](http://t.me/denilson_p) or join my [Discord server](https://discord.gg/mMTkY7ssZ2) in case of "deficiencies" within the guide.
+<a href="https://ko-fi.com/denilson_p">
+  <img src="https://raw.githubusercontent.com/denilson-projects/denilson-projects/refs/heads/main/assets/links/ko-fi.svg" width="223"/>
+</a>
+<a href="https://discord.gg/mMTkY7ssZ2">
+  <img src="https://raw.githubusercontent.com/denilson-projects/denilson-projects/refs/heads/main/assets/links/discord.svg" width="223"/>
+</a>
